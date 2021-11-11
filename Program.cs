@@ -10,5 +10,6 @@ class Program
         Console.WriteLine("Hello " + name); // concatenation
         Console.WriteLine("Hello {0}", name);// Placeholder syntax with index
         Console.WriteLine($"Hello {name}");// Placeholder syntax
+        Console.WriteLine($"Hello it's me");
     }
 }
